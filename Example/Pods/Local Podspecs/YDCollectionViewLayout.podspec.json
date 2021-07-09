@@ -1,0 +1,24 @@
+{
+  "name": "YDCollectionViewLayout",
+  "version": "0.1.0",
+  "summary": "collectionView布局类",
+  "description": "collectionView布局类",
+  "homepage": "https://github.com/skyxian/YDCollectionViewLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "skyxian": "https://github.com/skyxian"
+  },
+  "source": {
+    "git": "https://github.com/skyxian/YDCollectionViewLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.1",
+  "source_files": "YDCollectionViewLayout/Classes/**/*.{swift,h}",
+  "swift_version": "5.1"
+}

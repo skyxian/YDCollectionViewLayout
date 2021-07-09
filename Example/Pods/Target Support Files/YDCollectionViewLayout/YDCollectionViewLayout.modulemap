@@ -1,0 +1,6 @@
+framework module YDCollectionViewLayout {
+  umbrella header "YDCollectionViewLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
