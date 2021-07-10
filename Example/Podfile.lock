@@ -1,27 +1,16 @@
 PODS:
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
-  - YDCollectionViewLayout (0.1.0)
+  - YDCollectionViewLayout (0.1.2)
 
 DEPENDENCIES:
-  - FBSnapshotTestCase (~> 2.1.4)
   - YDCollectionViewLayout (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
   YDCollectionViewLayout:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  YDCollectionViewLayout: 86a5c38dfda3d2935773aa90d3affbf111e7a0dc
+  YDCollectionViewLayout: 5ddaff478895ea8f19306a33964b326407dc5574
 
-PODFILE CHECKSUM: b62b359458b4a625c39b7bf58d15051b7931895e
+PODFILE CHECKSUM: 3d4c9fcefe6f2a2edc277158239da348f27ebab1
 
 COCOAPODS: 1.10.1

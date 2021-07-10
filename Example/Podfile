@@ -1,13 +1,10 @@
-use_frameworks!
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+source 'git@gitlab.miliantech.com:miliantech-ios/Specs.git'
 
-platform :ios, '9.0'
+platform :ios, '10.0'
+
+use_frameworks!
 
 target 'YDCollectionViewLayout_Example' do
   pod 'YDCollectionViewLayout', :path => '../'
-
-  target 'YDCollectionViewLayout_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
-  end
 end
