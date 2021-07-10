@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import YDCollectionViewLayout
 
 class ViewController: UIViewController {
 

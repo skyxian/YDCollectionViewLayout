@@ -1,16 +1,16 @@
 PODS:
-  - YDCollectionViewLayout (0.1.2)
+  - YDCollectionViewLayout (0.1.3)
 
 DEPENDENCIES:
-  - YDCollectionViewLayout (from `../`)
+  - YDCollectionViewLayout (from `../YDCollectionViewLayout.podspec`)
 
 EXTERNAL SOURCES:
   YDCollectionViewLayout:
-    :path: "../"
+    :path: "../YDCollectionViewLayout.podspec"
 
 SPEC CHECKSUMS:
-  YDCollectionViewLayout: 5ddaff478895ea8f19306a33964b326407dc5574
+  YDCollectionViewLayout: a0204c502c37415310d869f41f2f44dff4e68d4f
 
-PODFILE CHECKSUM: 3d4c9fcefe6f2a2edc277158239da348f27ebab1
+PODFILE CHECKSUM: 997a4b2f3cdeccf2d2673d86bc8b509c73027738
 
 COCOAPODS: 1.10.1

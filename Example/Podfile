@@ -7,5 +7,5 @@ platform :ios, '10.0'
 use_frameworks!
 
 target 'YDCollectionViewLayout_Example' do
-  pod 'YDCollectionViewLayout', :path => '../'
+  pod 'YDCollectionViewLayout', :path => '../YDCollectionViewLayout.podspec'
 end
