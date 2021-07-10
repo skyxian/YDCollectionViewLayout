@@ -50,6 +50,7 @@ public class FixedHeightFlowLayout: UICollectionViewFlowLayout {
     public override func prepare() {
         super.prepare()
         print("版本升级测试")
+        print("版本升级测试2")
         // 重新布局前清空数据
         self.lastX = 0
         self.lastY = 0
