@@ -1,5 +1,6 @@
 source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
 source 'git@gitlab.miliantech.com:miliantech-ios/Specs.git'
+source 'https://github.com/skyxian/xianbaokunww.git'
 
 
 platform :ios, '10.0'

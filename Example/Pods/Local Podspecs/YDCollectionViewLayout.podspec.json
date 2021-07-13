@@ -1,6 +1,6 @@
 {
   "name": "YDCollectionViewLayout",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "collectionView布局类",
   "description": "collectionView布局类",
   "homepage": "https://github.com/skyxian/YDCollectionViewLayout",
@@ -13,12 +13,17 @@
   },
   "source": {
     "git": "https://github.com/skyxian/YDCollectionViewLayout.git",
-    "tag": "0.1.3"
+    "tag": "0.1.5"
   },
   "platforms": {
     "ios": "9.0"
   },
   "swift_versions": "5.1",
   "source_files": "YDCollectionViewLayout/Classes/**/*.{swift,h}",
+  "dependencies": {
+    "BTestDemo": [
+
+    ]
+  },
   "swift_version": "5.1"
 }

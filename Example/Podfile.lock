@@ -1,16 +1,42 @@
 PODS:
-  - YDCollectionViewLayout (0.1.3)
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - BTestDemo (0.1.1):
+    - AFNetworking
+  - YDCollectionViewLayout (0.1.5):
+    - BTestDemo
 
 DEPENDENCIES:
   - YDCollectionViewLayout (from `../YDCollectionViewLayout.podspec`)
+
+SPEC REPOS:
+  https://github.com/skyxian/xianbaokunww.git:
+    - BTestDemo
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
 
 EXTERNAL SOURCES:
   YDCollectionViewLayout:
     :path: "../YDCollectionViewLayout.podspec"
 
 SPEC CHECKSUMS:
-  YDCollectionViewLayout: a0204c502c37415310d869f41f2f44dff4e68d4f
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  BTestDemo: c2207b950258f1a4495d5ba09bb07df16653aab4
+  YDCollectionViewLayout: 8677d9bd9a76b44e410167c4e4c1900b553ffcde
 
-PODFILE CHECKSUM: 997a4b2f3cdeccf2d2673d86bc8b509c73027738
+PODFILE CHECKSUM: b225c9b98d880d3302738448ba2023dbdf9aa4ba
 
 COCOAPODS: 1.10.1

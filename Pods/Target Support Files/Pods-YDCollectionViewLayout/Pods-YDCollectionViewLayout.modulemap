@@ -1,0 +1,6 @@
+module Pods_YDCollectionViewLayout {
+  umbrella header "Pods-YDCollectionViewLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

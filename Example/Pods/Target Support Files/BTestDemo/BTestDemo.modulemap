@@ -1,0 +1,6 @@
+framework module BTestDemo {
+  umbrella header "BTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
